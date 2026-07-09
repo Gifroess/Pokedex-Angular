@@ -4,7 +4,7 @@ Projeto final desenvolvido com **Angular** e **TypeScript**, utilizando a **Pok�
 
 O projeto foi desenvolvido a partir dos conhecimentos adquiridos durante o curso e recebeu novas funcionalidades, melhorias visuais e alterações na experiência de navegação.
 
-##Principais alterações feitas
+## Principais alterações feitas
 
 - Criação do componente **PokeExplorerPanel**, com painel de navegação, contador de Pokémon visíveis, contador de capturados, filtro por tipo e botão de sorteio.
 
