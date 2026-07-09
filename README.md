@@ -31,3 +31,33 @@ O projeto foi desenvolvido a partir dos conhecimentos adquiridos durante o curso
 A aplicação permite pesquisar e filtrar Pokémon, visualizar informações detalhadas, alternar entre as versões normal e shiny, capturar Pokémon, acompanhar a quantidade de capturados, sortear Pokémon aleatórios e alternar entre os temas claro e escuro.
 
 O projeto também conta com uma tela de autenticação integrada a um backend Node.js com JWT, permitindo o acesso à Pokédex após a validação das credenciais.
+
+
+## Como rodar
+
+```bash
+npm install
+npm start
+```
+
+Depois, acesse:
+
+```bash
+http://localhost:4200/
+```
+
+## Build de produção
+
+```bash
+npm run build
+```
+
+## Testes
+
+```bash
+npm test -- --watch=false
+```
+
+## Observação
+
+O projeto usa dados da PokéAPI. Para carregar os Pokémon no navegador, é necessário estar conectado à internet.
